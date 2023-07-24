@@ -1,0 +1,8 @@
+{
+  "label": "Validator",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "Everything about Lemon Chain, validator related."
+  }
+}
