@@ -24,7 +24,7 @@ Copy the following values in your browser wallet to connect to the Lemon Chain T
 | Property           | Value                                   |
 |--------------------|-----------------------------------------|
 | Network name       | `Citron Chain`                         |
-| RPC URL            | `https://rpc.testnet.allthingslemon.io/`    |
+| RPC URL            | `https://rpc.testnet.lemonchain.io/`    |
 | Chain ID           | `1005`                                  |
 | Currency Symbol    | `tLEMX`                                  |
 

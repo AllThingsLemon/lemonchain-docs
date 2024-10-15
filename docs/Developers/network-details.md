@@ -9,7 +9,7 @@ sidebar_position: 2
 | Property           | Value                                   |
 |--------------------|-----------------------------------------|
 | Network name       | `Lemon Chain`                    |
-| RPC URL            | `https://rpc.allthingslemon.io/`           |
+| RPC URL            | `https://rpc.lemonchain.io/`           |
 | Chain ID           | `1006`                                  |
 | Currency Symbol    | `LEMX`                                   |
 
@@ -18,7 +18,7 @@ sidebar_position: 2
 | Property           | Value                                   |
 |--------------------|-----------------------------------------|
 | Network name       | `Citron Chain`                    |
-| RPC URL            | `https://rpc.testnet.allthingslemon.io/`   |
+| RPC URL            | `https://rpc.testnet.lemonchain.io/`   |
 | Chain ID           | `1005`                                  |
 | Currency Symbol    | `tLEMX`                                  |
 

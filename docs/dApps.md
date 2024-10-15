@@ -6,8 +6,8 @@ sidebar_position: 9
 
 ### RPC urls
 
-- Testnet: https://rpc.testnet.allthingslemon.io/
-- Mainnet: https://rpc.allthingslemon.io/
+- Testnet: https://rpc.testnet.lemonchain.io/
+- Mainnet: https://rpc.lemonchain.io/
 
 ### Lemon Chain Staking
 
