@@ -36,13 +36,15 @@ This is what it should look like:
 
 Visit the [Lemon Chain Testnet Faucet](http://example.com) to request tLEMX (testnet LEMX) tokens.
 
+## 3. Visit OpenZeppelin Contracts Wizard
+
+You can visit the [OpenZeppelin Contracts Wizard](https://wizard.openzeppelin.com/) as an easy way to generate the contract for your ERC-20 Token.
+
 ## 4. Set characteristics of your ERC20
 
-You can read about all the buttons and what they mean [here](/docs/Developers/Smart%20Contracts/Deploying%20Smart%20Contracts/contract-wizard).
+Go through the fields and set the parameters as you like:
 
-import ContractWizard from '@site/src/components/ContractWizard/ContractWizard'
-
-<ContractWizard />
+!["OpenZeppelin Contracts Wizard"](assets/img/openzeppelin-contracts-wizard.png)
 
 ## 5. Using RemixIDE
 
