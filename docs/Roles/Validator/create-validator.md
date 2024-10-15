@@ -6,7 +6,7 @@ sidebar_position: 2
 
 ## Requirements
 
-- Minimum stake 350,000 LEMX
+- Minimum stake 100 LEMX
 - Minimum hardware requirements: AWS EC2 m5.xlarge with 4 vCPUs (3.1 GHz) and at least 1 TB of Amazon EBS General Purpose SSD (gp2) storage (or equivalent).
 
 ## Procedure overview
