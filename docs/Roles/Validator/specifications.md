@@ -6,7 +6,7 @@ sidebar_position: 1
 
 A validator is an individual tasked with the verification of transactions and the production of blocks within the blockchain.
 
-**Minimum requirements to run a validator node:** 100 LEMX
+**Minimum requirements to run a validator node:** 250 LEMX
 
 **Max validator node capacity:** 10x the self-staked amount
 

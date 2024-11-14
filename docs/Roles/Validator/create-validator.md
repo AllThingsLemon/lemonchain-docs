@@ -6,7 +6,7 @@ sidebar_position: 2
 
 ## Requirements
 
-- Minimum stake 100 LEMX
+- Minimum stake 250 LEMX
 - Minimum hardware requirements: AWS EC2 m5.xlarge with 4 vCPUs (3.1 GHz) and at least 1 TB of Amazon EBS General Purpose SSD (gp2) storage (or equivalent).
 
 ## Procedure overview
@@ -335,7 +335,7 @@ Make a note of your **public key**. You will need it to register your validator 
 
 ### Fund your validator wallet
 
-The next step is to fund your validator wallet with enough LEMX to become a validator. That means you need to have at least 350,000 LEMX in the wallet you just created (send a little more to cover transaction fees).
+The next step is to fund your validator wallet with enough LEMX to become a validator. That means you need to have at least 250 LEMX, or the current minimum, in the wallet you just created (send a little more to cover transaction fees).
 
 Make sure you wait for your node to be fully synced, otherwise your LEMX will not show up in your wallet!
 

@@ -31,7 +31,7 @@ Additionally, be aware that if a validator acts inappropriately and faces penalt
 
 :::
 
-On the staking dashboard, each validator displays the maximum lock-up time for your LEMX, their total stake (minimum of 350,000 LEMX plus delegations), and available space (15 times the total stake).
+On the staking dashboard, each validator displays the maximum lock-up time for your LEMX, their total stake (minimum of 250 LEMX plus delegations), and available space (10 times the total stake).
 
 !["Staking Step 3"](assets/img/2staking.png)
 

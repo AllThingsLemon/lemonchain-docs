@@ -6,7 +6,7 @@ sidebar_position: 3
 
 ## What is staking on Lemon Chain?
 
-Staking on Lemon Chain involves allocating your Lemon Chain tokens to secure the network. By staking, you earn rewards while also contirbuting to the network's stability and security.
+Staking on Lemon Chain involves allocating your Lemon Chain tokens to secure the network. By staking, you earn rewards while also contributing to the network's stability and security.
 
 ## How do I start staking on Lemon Chain?
 
@@ -46,4 +46,4 @@ No. A validator doesn't have access to any tokens except their own. However, if 
 
 ## What occurs if a validator goes offline?
 
-Should a validator node go offline for 800 blocks and 72 hours, it ceases to receive rewards as it's no longer contributing to the network's security. The stake and delegated stake is not lost and the ex-validator and it's delegators can unstake if they would like. Nonetheless, as mentioned above, the ex-validator doesn't have access to delegator's staked coins, and hence, your funds are safe.
+Should a validator node go offline for 800 blocks and 7 days, it ceases to receive rewards as it's no longer contributing to the network's security. The stake and delegated stake is not lost and the ex-validator and it's delegators can unstake if they would like. Nonetheless, as mentioned above, the ex-validator doesn't have access to delegator's staked coins, and hence, your funds are safe.

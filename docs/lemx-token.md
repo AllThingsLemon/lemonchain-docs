@@ -18,5 +18,5 @@ In addition to the utility described above, LEMX also represents the influence e
 
 As mentioned in point 2, each participant aiming to process a transaction on Lemon Chain is required to pay a corresponding fee (often referred to as "gas"). These transaction fees are paid to the validators who help secure the network. However, they don't get the full amount. Here is a breakdown:
 
-- 70% goes to the validator
-- 30% is burnt forever
+- 50% goes to the validator
+- 50% goes to the foundation

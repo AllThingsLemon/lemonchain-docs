@@ -34,7 +34,7 @@ If you stake your tokens without committing to a specific lock-in period, you'll
 
 #### 2. Delegate LEMX & lock for certain period
 
-By staking your tokens with a commitment to a lock-up period, even for the minimum duration, you'll receive higher rewards compared to not locking them. The lock-up period can vary from 12 days (the minimum) to 1,095 days (the maximum (~3 years)), with the reward rate increasing alongside the length of time you lock your LEMX.
+By staking your tokens with a commitment to a lock-up period, even for the minimum duration, you'll receive higher rewards compared to not locking them. The lock-up period can vary from 12 days (the minimum) to 1,825 days (5 years max), with the reward rate increasing alongside the length of time you lock your LEMX.
 
 ### Unbonding Period
 
@@ -47,12 +47,12 @@ The unbonding period only applies to unstaking. It does not apply to claiming an
 
 ### Delegation Fee
 
-Delegating allows you to assign your stake to a validator without needing the 350,000 LEMX, specialized knowledge, or hardware required to run a validator node independently. In exchange for this service, the network imposes a fixed fee of 12% on all staking rewards earned by delegators. This fee is directly compensated to the validators for operating their nodes.
+Delegating allows you to assign your stake to a validator without needing the 250 LEMX, specialized knowledge, or hardware required to run a validator node independently. In exchange for this service, the network imposes a 35% variable rate on all staking rewards earned by delegators. This fee is directly compensated to the validators for operating their nodes.
 
 #### Example:
 
 - You stake 1,000 LEMX at a 10% APR, expecting a total of 1,100 LEMX by year-end.
-- By the end of the year, you receive 1,088 LEMX, and the validator you staked to receives 12 LEMX.
+- By the end of the year, you receive 1,065 LEMX, and the validator you staked to receives 35 LEMX.
 
 
 ### Locking 
