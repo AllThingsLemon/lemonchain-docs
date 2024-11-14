@@ -10,11 +10,11 @@ Staking on Lemon Chain involves allocating your Lemon Chain tokens to secure the
 
 ## How do I start staking on Lemon Chain?
 
-You start by acquiring Lemon Chain tokens, typically through a centralized exchange such as Binance/Kucoin. These tokens are then sent either to Tofee Wallet, or Metamask which is configured to the Lemon Chain mainnet, check guide here. After this, you delegate to a validator node, you can do this by clicking here.
+You start by acquiring Lemon Chain tokens by identifying available exchanges on Coinmarketcap.com. These tokens are then sent either to Tofee Wallet, or Metamask which is configured to the Lemon Chain mainnet, check guide here. After this, you delegate to a validator node, you can do this by clicking here.
 
 ## What is a validator node?
 
-A validator node is a participant on the Lemon Chain network responsible for validating and adding new blocks to the blockchain. These nodes are crucial for maintaining the network's security and integrity. You can read more here.
+A validator node is a participant on the Lemon Chain network responsible for validating and adding new blocks to the blockchain. These nodes are crucial for maintaining the network's security and integrity. You can read more [here.](/docs/Roles/Validator/create-validator.md)
 
 ## Can I lose my staked tokens?
 

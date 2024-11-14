@@ -38,22 +38,22 @@ To update your validator details, you must visit the [staking website](https://s
 ### Step 1
 Connect your validator wallet to the site.
 
-!["Staking Step 1"](assets/img/1e.png)
+<!-- !["Staking Step 1"](assets/img/1e.png) -->
 
 ### Step 2
 Your validator details will be visible on the dashboard.
 
-!["Validator View"](./assets/img/update-validator-01.png)
+<!-- !["Validator View"](./assets/img/update-validator-01.png) -->
 
 ### Step 3
 Click the edit icon next to your validator name.
 
-!["Validator Edit"](./assets/img/update-validator-02.png)
+<!-- !["Validator Edit"](./assets/img/update-validator-02.png) -->
 
 ### Step 4
 After pasting the URL into the input field, you can validate your data by clicking the 'Check URL' button.
 
-!["Validator Modal"](./assets/img/update-validator-03.png)
+<!-- !["Validator Modal"](./assets/img/update-validator-03.png) -->
 
 :::info
 
@@ -61,12 +61,12 @@ If you omit any fields, the JSON object will still be considered valid, and the 
 
 :::
 
-!["Validator Error"](./assets/img/update-validator-04.png)
+<!-- !["Validator Error"](./assets/img/update-validator-04.png) -->
 
 ### Step 5
 
 Submit your updated details. As this URL will be stored on the blockchain, you will need to confirm the transaction through your wallet
 
-!["Successful Update"](./assets/img/update-validator-05.png)
+<!-- !["Successful Update"](./assets/img/update-validator-05.png) -->
 
 Following this, a success message will confirm that your validator details have been updated.

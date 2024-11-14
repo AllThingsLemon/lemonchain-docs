@@ -16,13 +16,15 @@ Before you start building on Lemon Chain, there are some essential details you n
 
 You're free to begin building on our public Lemon Chain mainnet. Everything from Lemon Chain Wallet integration to smart contract deployment is accessible to anyone.   
 
-However, to access our user base, you would need to fill out a form, after which a meeting will be held and a decision made.   
+However, to access our user base, you will need to reach out to support@allthingslemon.io
+
+<!-- However, to access our user base, you would need to fill out a form, after which a meeting will be held and a decision made.   
 
 To deploy your project on Lemon Chain and gain access to our user base, you need to apply for our allowlist. If your application aligns well with the Lemon Chain ecosystem, Neoma Ventures will reach out to you for the next steps.
 
 :::info Apply for gaining access to our user base
 [Fill out application form](https://hbon2vcvybq.typeform.com/to/HQtysbMF)
-:::
+::: -->
 
 ## Build on Lemon Chain
 

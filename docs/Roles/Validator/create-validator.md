@@ -354,7 +354,7 @@ If your wallet contains the required amount of LEMX, you can see the Validator m
 
 !["./opera attach"](./assets/img/validator-menu.png)
 
-Fill the form with your validator public key and the staking amount. The staking amount has to be more than 350.000 LEMX.
+Fill the form with your validator public key and the staking amount. The staking amount has to be more than 250 LEMX.
 
 !["./opera attach"](./assets/img/validator-settings.png)
 
