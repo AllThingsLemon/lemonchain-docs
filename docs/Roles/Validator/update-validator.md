@@ -21,7 +21,7 @@ You are required to provide a link to a JSON file that includes the specified fi
   "name": "My validator",
   "logo": "url-for-the-logo",
   "website": "https://yourURL.com",
-  "contact": "contact@mail.com",
+  "contact": "contact@mail.com"
   }
 ```
 **name** - It will be presented in the validator list.  
