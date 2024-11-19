@@ -27,7 +27,7 @@ You are required to provide a link to a JSON file that includes the specified fi
 **name** - It will be presented in the validator list.  
 **logo** - Include this in the validator list as well. The preferred size is 56px by 56px, though using square dimensions is strongly recommended.  
 **website** - This link will be displayed beneath your validator name.  
-**contanct** - It will not be displayed publicly; it is solely for internal use
+**contact** - It will not be displayed publicly; it is solely for internal use
 
 We recommend using [Gist](https://gist.github.com/) to store this JSON file, but you may host it anywhere, as long as it remains accessible for external requests."
 
