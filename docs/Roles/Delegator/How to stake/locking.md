@@ -59,7 +59,7 @@ Please note that the specified minimum and maximum lock-up periods are determine
 
 :::info 
 
-Note that the button displays "Increase Locked Amount and Lock Duration" with a minimum duration of 20 days. This is because, in our example with Validator #3, there's an existing locked stake. The system requires that any additional lock cannot have a duration shorter than any existing lock on the same validator using the same wallet. Therefore, if you're adding to a 20-day lock to Validator #3, any further lock to this validator from the same wallet must also be for at least 20 days.
+Note that the button displays "Increase Locked Amount and Lock Duration" with a minimum duration of 20 days. This is because, in our example with Validator #1, there's an existing locked stake. The system requires that any additional lock cannot have a duration shorter than any existing lock on the same validator using the same wallet. Therefore, if you're adding to a 20-day lock to Validator #1, any further lock to this validator from the same wallet must also be for at least 20 days.
 
 :::
 
