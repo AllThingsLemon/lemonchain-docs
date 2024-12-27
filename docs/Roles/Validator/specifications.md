@@ -15,7 +15,7 @@ A validator is an individual tasked with the verification of transactions and th
 **Unbonding time:** 7 days
 
 ## Parameters
-- Minimum hardware requirements: AWS EC2 m5.xlarge with 4 vCPUs (3.1 GHz) and at least 1 TB of Amazon EBS General
+- Minimum hardware requirements: AWS EC2 m5.2xlarge with 8 vCPUs (3.1 GHz) and at least 1 TB of Amazon EBS General
 - Purpose SSD (gp2) storage (or equivalent).
 - Rewards: part of the gas fees
 
